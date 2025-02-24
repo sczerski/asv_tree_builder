@@ -9,7 +9,7 @@ R >= version 4
 Python >= version 3.12.2
 mafft >= v7.505 (2022/Apr/10)
 RAxML-NG- >= v 1.1 (29.11.2021)
-**RECOMMENDED**
+ OR **RECOMMENDED:**
 I highly recommend simply using the provided snake.yaml file to clone the environment which I use to run this pipeline.
 
 # Inputs and Description of Pipeline
